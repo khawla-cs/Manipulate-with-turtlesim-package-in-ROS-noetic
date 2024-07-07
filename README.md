@@ -41,7 +41,7 @@ rosrun rospy_tutorials listener
 
 ## Turtlesim
 
-1- This command is going to shaw a graphical window with a turtle
+1- This command is going to show a graphical window with a turtle
 ```
 rosrun turtlesim turtlesim_node
 ```
