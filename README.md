@@ -54,7 +54,7 @@ rosrun turtlesim turtle_teleop_key
 ```
 ![Screenshot 2024-07-08 004144](https://github.com/khawla-cs/Manipulate-with-turtlesim-package-in-ROS-noetic/assets/173630971/744a27f1-df51-4e01-9465-fdf3d58cf854)
 
-note: if the turtle does not moving, make sure to click the terminal window that contains ( rosrun turtlesim turtle_teleop_key )command.
+note: if the turtle does not moving, make sure to click the terminal window that contains (rosrun turtlesim turtle_teleop_key) command.
 
 
 
